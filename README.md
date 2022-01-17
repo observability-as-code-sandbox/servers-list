@@ -15,7 +15,7 @@ Create .local.token file and paste plaintext token value.
 foo@bar:~$ ./get-servers-list.sh https://<account-name>.saas.appdynamics.com
 ```
 
-> Replace <account-name> with your controller's value.
+> Replace `<account-name>` with your controller's value.
 
 3) Convert
 
