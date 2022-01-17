@@ -4,9 +4,9 @@
 
 1) Obtain controller connection details:
 - Controller URL
-- Access Token (API Access)
+- Temporary Access Token (API Access)
 
-Create .local.token file and paste plaintext token value. 
+Create `.local.token` file and paste plaintext token value. 
 > Never check-in or version control any of your access details.
 
 2) Run server export
