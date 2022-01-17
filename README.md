@@ -23,7 +23,7 @@ foo@bar:~$ ./get-servers-list.sh https://<account-name>.saas.appdynamics.com
 foo@bar:~$ ./convert-servers-list.sh
 ```
 
-Find the latest server list in '/exported' folder.
+Find the latest server list in `/exported` folder.
 
 4) Format CSV (optional)
 
