@@ -24,3 +24,11 @@ foo@bar:~$ ./convert-servers-list.sh
 ```
 
 Find the latest server list in '/exported' folder.
+
+4) Format CSV (optional)
+
+Open file in Excel and navigate to Data tap > choose Text to Columns > use Comma as a separator > Finish
+
+<img width="833" alt="Screenshot 2022-01-17 at 17 19 13" src="https://user-images.githubusercontent.com/82029748/149813819-1472086d-0582-4e5c-9971-46676a5ebee9.png">
+
+
