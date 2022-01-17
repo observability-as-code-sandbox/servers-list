@@ -1,6 +1,6 @@
 # Server list
 
-## Steps to use Health rules
+## Steps to export list of servers to CSV
 1) Obtain controller connection details:
 - Controller URL
 - Access Token (API Access)
