@@ -1,6 +1,7 @@
 # Server list
 
-## Steps to export list of servers to CSV
+## Steps to export servers from controller to CSV file
+
 1) Obtain controller connection details:
 - Controller URL
 - Access Token (API Access)
@@ -14,7 +15,7 @@ Create .local.token file and paste plaintext token value.
 foo@bar:~$ ./get-servers-list.sh https://<account-name>.saas.appdynamics.com
 ```
 
-> Note: replace <account-name> with your controller's value.
+> Replace <account-name> with your controller's value.
 
 3) Convert
 
