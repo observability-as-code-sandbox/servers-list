@@ -1,3 +1,4 @@
 .local.token
 exported/*.csv
 exported/*.json
+.DS_Store
